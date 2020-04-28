@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+  color: blue;
+  text-align: center;
+  margin: 0 0 10px;
+  opacity: 0.6;
+  background-color: coral;
+}
+h2 {
+  text-align: center;
+}
+form {
+  background-color: aqua;
+  width: 40%;
+}
